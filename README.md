@@ -14,7 +14,7 @@ npm install
 
 Install clasp with npm, and login with Google.
 ```
-npm install clasp -g
+npm install @google/clasp -g
 clasp login
 ```
 
